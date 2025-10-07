@@ -15,4 +15,4 @@ Meu portifolio, experiencias passadas por projetos e conhecimentos que obtive du
 - shadcn-ui
 - Tailwind CSS
 
-![alt text](image.png)
+<img width="1077" height="760" alt="image" src="https://github.com/user-attachments/assets/3182e07c-c0e4-484b-9fbb-7bb6a7cf8fcf" />
